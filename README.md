@@ -43,6 +43,7 @@ __Step 1__: Prepare Font Files
 Place your `.ttf` or `.otf` font files in the same directory as the script.
 
 __Step 2__: Run the Script
+
 Run the script with:
 
 ```bash
