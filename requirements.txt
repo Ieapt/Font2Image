@@ -1,0 +1,7 @@
+
+---
+
+### requirements.txt
+
+```plaintext
+pillow>=10.0.0
